@@ -1,0 +1,102 @@
+# German translations for Classroom Presenter for the XO package.
+# Copyright (C) 2008 THE kp'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the kp package.
+# Kristofer Plunkett <kp86@attu1.cs.washington.edu>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-09 09:40+0700\n"
+"PO-Revision-Date: 2008-10-13 13:25-0700\n"
+"Last-Translator: Kristofer Plunkett <kp86@cs.washington.edu>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2
+msgid "Classroom Presenter"
+msgstr "Klassenzimmer Vorsteller"
+
+#: classroompresenter.py:93
+msgid "Navigation"
+msgstr "Navigation"
+
+#: classroompresenter.py:94
+msgid "Ink"
+msgstr "Tinte"
+
+#: classroompresenter.py:122
+msgid "Loading slide deck..."
+msgstr "Präsentation werded geladen..."
+
+#: Sidebar.py:53
+msgid "Slides"
+msgstr "Seiten"
+
+#: sidebar.py:61
+msgid "Versions of this slide:"
+msgstr "Versionen der Seite:"
+
+#: sidebar.py:68
+msgid "Submissions"
+msgstr "Einreichungen"
+
+#: sidebar.py:86
+msgid "My Ink"
+msgstr "Meine Tinte"
+
+#: sidebar.py:89
+#, python-format
+msgid "%(name)s's Ink"
+msgstr "%(name)ss Tinte"
+
+#: toolbars.py:44
+msgid "Previous slide"
+msgstr "Vorherige Seite"
+
+#: toolbars.py:48
+msgid "Next slide"
+msgstr "Nächste Seite"
+
+#: toolbars.py:87
+msgid "Not Connected"
+msgstr "Nicht Verbunden"
+
+#: toolbars.py:103
+msgid "Student Navigation Unlocked"
+msgstr "Studenten Navigation Erlaubt"
+
+#: toolbars.py:109
+msgid "Student Navigation Locked"
+msgstr "Studenten Navigation Nicht Erlaubt"
+
+#: toolbars.py:146
+msgid "Instructor"
+msgstr "Lehrer"
+
+#: toolbars.py:151
+msgid "Student"
+msgstr "Student"
+
+#: toolbars.py:279
+msgid "Erase All Ink"
+msgstr "Alle Tinte Löschen"
+
+#: toolbars.py:300
+msgid "Undo"
+msgstr "Rückgängig"
+
+#: toolbars.py:307
+msgid "Redo"
+msgstr "Wiederherstellen"
+
+#: toolbars.py:319 toolbars.py:330
+msgid "Broadcast Submission"
+msgstr "Einreichung Senden"
+
+#: toolbars.py:332
+msgid "Submit Ink"
+msgstr "Tinte Einreichen"

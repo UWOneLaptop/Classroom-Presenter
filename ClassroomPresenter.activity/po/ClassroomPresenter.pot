@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-09 09:40+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Classroom Presenter"
+msgstr ""
+
+#: classroompresenter.py:93
+msgid "Navigation"
+msgstr ""
+
+#: classroompresenter.py:94
+msgid "Ink"
+msgstr ""
+
+#: classroompresenter.py:122
+msgid "Loading slide deck..."
+msgstr ""
+
+#: sidebar.py:53
+msgid "Slides"
+msgstr ""
+
+#: sidebar.py:61
+msgid "Versions of this slide:"
+msgstr ""
+
+#: sidebar.py:68
+msgid "Submissions"
+msgstr ""
+
+#: sidebar.py:86
+msgid "My Ink"
+msgstr ""
+
+#: sidebar.py:89
+#, python-format
+msgid "%(name)s's Ink"
+msgstr ""
+
+#: toolbars.py:44
+msgid "Previous slide"
+msgstr ""
+
+#: toolbars.py:48
+msgid "Next slide"
+msgstr ""
+
+#: toolbars.py:87
+msgid "Not Connected"
+msgstr ""
+
+#: toolbars.py:103
+msgid "Student Navigation Unlocked"
+msgstr ""
+
+#: toolbars.py:109
+msgid "Student Navigation Locked"
+msgstr ""
+
+#: toolbars.py:146
+msgid "Instructor"
+msgstr ""
+
+#: toolbars.py:151
+msgid "Student"
+msgstr ""
+
+#: toolbars.py:279
+msgid "Erase All Ink"
+msgstr ""
+
+#: toolbars.py:300
+msgid "Undo"
+msgstr ""
+
+#: toolbars.py:307
+msgid "Redo"
+msgstr ""
+
+#: toolbars.py:319 toolbars.py:330
+msgid "Broadcast Submission"
+msgstr ""
+
+#: toolbars.py:332
+msgid "Submit Ink"
+msgstr ""
