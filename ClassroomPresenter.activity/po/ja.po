@@ -1,0 +1,113 @@
+# Japanese translations for Classroom Presenter for XO package.
+# Copyright (C) 2008 University of Washington CSE
+# This file is distributed under the same license as the Classroom Presenter package.
+# Brian Mayton <bmayton@cs.washington.edu>, 2008.
+#
+# This is an example translation to test that localization works in Classroom Presenter.
+# The actual translation is probably dubious; I'm using a dictionary for a few of these
+# terms.  It'd be great if someone more fluent than I could make corrections here...
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-09 09:40+0700\n"
+"PO-Revision-Date: 2008-10-08 19:42-0700\n"
+"Last-Translator: Brian Mayton <bmayton@cs.washington.edu>\n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: activity/activity.info:2
+msgid "Classroom Presenter"
+msgstr "クラスルーム・プリゼンター"
+
+#: classroompresenter.py:93
+msgid "Navigation"
+msgstr "ナビゲート"
+
+#: classroompresenter.py:94
+msgid "Ink"
+msgstr "すみ"
+
+#: classroompresenter.py:122
+msgid "Loading slide deck..."
+msgstr ""
+
+#: sidebar.py:53
+msgid "Slides"
+msgstr "スライド"
+
+#: sidebar.py:61
+# We should just get rid of this string... it doesn't need to be there...
+msgid "Versions of this slide:"
+msgstr ""
+
+#: sidebar.py:68
+msgid "Submissions"
+msgstr "提出"
+
+#: sidebar.py:86
+msgid "My Ink"
+msgstr "私のすみ"
+
+#: sidebar.py:89
+#, python-format
+msgid "%(name)s's Ink"
+msgstr "%(name)sさんのすみ"
+
+#: toolbars.py:44
+msgid "Previous slide"
+msgstr "先のスライド"
+
+#: toolbars.py:48
+msgid "Next slide"
+msgstr "次のスライド"
+
+#: toolbars.py:87
+msgid "Not Connected"
+msgstr "接続していません"
+
+#: toolbars.py:103
+# literally "students can navigate"
+msgid "Student Navigation Unlocked"
+msgstr "学生はナビゲートを出来ます"
+
+#: toolbars.py:109
+# literally "students cannot navigate"
+msgid "Student Navigation Locked"
+msgstr "学生はナビゲートを出来ません"
+
+#: toolbars.py:146
+msgid "Teacher"
+msgstr "先生"
+
+#: toolbars.py:151
+msgid "Student"
+msgstr "学生"
+
+#: toolbars.py:279
+# literally "erase everything"
+msgid "Erase All Ink"
+msgstr "全部を消す"
+
+#: toolbars.py:300
+# Undo and redo are the same as I could find used in other software
+msgid "Undo"
+msgstr "取り消す"
+
+#: toolbars.py:307
+msgid "Redo"
+msgstr "やり直す"
+
+#: toolbars.py:319 toolbars.py:330
+# lit. "send to everyone"
+msgid "Broadcast Submission"
+msgstr "みんなさんにみせる"
+
+#: toolbars.py:332
+# lit "hand in to teacher"
+msgid "Submit Ink"
+msgstr "先生に出す"

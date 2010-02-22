@@ -1,0 +1,12 @@
+encoding: UTF-8
+classroompresenter.py
+ink.py
+shared.py
+sharedslides.py
+sidebar.py
+sliderenderer.py
+slideshow.py
+slideviewer.py
+textarea.py
+toolbars.py
+utils.py

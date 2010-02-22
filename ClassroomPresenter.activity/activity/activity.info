@@ -1,0 +1,8 @@
+[Activity]
+name = Classroom Presenter
+service_name = edu.washington.cs.ClassroomPresenterXO
+class = classroompresenter.ClassroomPresenter
+icon = classroompresenter-activity
+activity_version = 3
+show_launcher = yes
+mime_types = application/x-classroompresenter; application/zip
